@@ -1,0 +1,10 @@
+﻿  LISTVIEW.C
+f:\nguyen toan vinh\documents\visual studio 2010\projects\learn windows programming\listview\listview.c(409): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+f:\nguyen toan vinh\documents\visual studio 2010\projects\learn windows programming\listview\listview.c(414): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+f:\nguyen toan vinh\documents\visual studio 2010\projects\learn windows programming\listview\listview.c(419): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+f:\nguyen toan vinh\documents\visual studio 2010\projects\learn windows programming\listview\listview.c(483): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(245) : see declaration of 'strcmpi'
+  ListView.vcxproj -> F:\Nguyen Toan Vinh\Documents\Visual Studio 2010\Projects\Learn Windows Programming\Debug\ListView.exe

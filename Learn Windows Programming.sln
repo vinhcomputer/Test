@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "First Win32 Project", "First Win32 Project\First Win32 Project.vcxproj", "{228D6864-1568-4159-A329-9A90D39EDCE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DialogBox", "DialogBox\DialogBox.vcxproj", "{89B4D4CA-A356-4CB2-9926-2F633A54EF40}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Standard Controls", "Standard Controls\Standard Controls.vcxproj", "{A5598380-D79C-4435-88D8-95DD893067F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Text Editor", "Text Editor\Text Editor.vcxproj", "{533B5872-4D08-4E92-948A-E4F482E8D27F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bitmap", "Bitmap\Bitmap.vcxproj", "{9A7DA44A-4597-45C7-BBDA-F988315C24B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Font", "Font\Font.vcxproj", "{09A90843-6F02-4856-8500-604BEC1DEFBF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListView", "ListView\ListView.vcxproj", "{69B2AF96-C997-443E-9F28-7651D9CF4D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{228D6864-1568-4159-A329-9A90D39EDCE0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{228D6864-1568-4159-A329-9A90D39EDCE0}.Debug|Win32.Build.0 = Debug|Win32
+		{228D6864-1568-4159-A329-9A90D39EDCE0}.Release|Win32.ActiveCfg = Release|Win32
+		{228D6864-1568-4159-A329-9A90D39EDCE0}.Release|Win32.Build.0 = Release|Win32
+		{89B4D4CA-A356-4CB2-9926-2F633A54EF40}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89B4D4CA-A356-4CB2-9926-2F633A54EF40}.Debug|Win32.Build.0 = Debug|Win32
+		{89B4D4CA-A356-4CB2-9926-2F633A54EF40}.Release|Win32.ActiveCfg = Release|Win32
+		{89B4D4CA-A356-4CB2-9926-2F633A54EF40}.Release|Win32.Build.0 = Release|Win32
+		{A5598380-D79C-4435-88D8-95DD893067F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5598380-D79C-4435-88D8-95DD893067F6}.Debug|Win32.Build.0 = Debug|Win32
+		{A5598380-D79C-4435-88D8-95DD893067F6}.Release|Win32.ActiveCfg = Release|Win32
+		{A5598380-D79C-4435-88D8-95DD893067F6}.Release|Win32.Build.0 = Release|Win32
+		{533B5872-4D08-4E92-948A-E4F482E8D27F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{533B5872-4D08-4E92-948A-E4F482E8D27F}.Debug|Win32.Build.0 = Debug|Win32
+		{533B5872-4D08-4E92-948A-E4F482E8D27F}.Release|Win32.ActiveCfg = Release|Win32
+		{533B5872-4D08-4E92-948A-E4F482E8D27F}.Release|Win32.Build.0 = Release|Win32
+		{9A7DA44A-4597-45C7-BBDA-F988315C24B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A7DA44A-4597-45C7-BBDA-F988315C24B2}.Debug|Win32.Build.0 = Debug|Win32
+		{9A7DA44A-4597-45C7-BBDA-F988315C24B2}.Release|Win32.ActiveCfg = Release|Win32
+		{9A7DA44A-4597-45C7-BBDA-F988315C24B2}.Release|Win32.Build.0 = Release|Win32
+		{09A90843-6F02-4856-8500-604BEC1DEFBF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09A90843-6F02-4856-8500-604BEC1DEFBF}.Debug|Win32.Build.0 = Debug|Win32
+		{09A90843-6F02-4856-8500-604BEC1DEFBF}.Release|Win32.ActiveCfg = Release|Win32
+		{09A90843-6F02-4856-8500-604BEC1DEFBF}.Release|Win32.Build.0 = Release|Win32
+		{69B2AF96-C997-443E-9F28-7651D9CF4D87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69B2AF96-C997-443E-9F28-7651D9CF4D87}.Debug|Win32.Build.0 = Debug|Win32
+		{69B2AF96-C997-443E-9F28-7651D9CF4D87}.Release|Win32.ActiveCfg = Release|Win32
+		{69B2AF96-C997-443E-9F28-7651D9CF4D87}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
